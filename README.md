@@ -9,6 +9,9 @@ A simple Todo List application built with **JavaScript / React** (or your chosen
 - 💾 Data persistence (optional: localStorage)
 - 📱 Responsive design
 
+
+   Demo
+   https://zesty-smakager-8c2039.netlify.app/
 ## 🛠 Installation
 1. Clone the repository:
    ```bash
@@ -18,5 +21,3 @@ A simple Todo List application built with **JavaScript / React** (or your chosen
 
 
 
-   Demo
-   https://zesty-smakager-8c2039.netlify.app/
